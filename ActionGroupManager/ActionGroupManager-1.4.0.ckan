@@ -11,7 +11,7 @@
         "x_screenshot": "https://kerbalstuff.com/content/ExplorerKlatt_12431/Action_Group_Manager/Action_Group_Manager-1436483499.493986.png"
     },
     "version": "1.4.0",
-    "ksp_version": "1.0.4",
+    "ksp_version": "1.1",
     "install": [
         {
             "file": "ActionGroupManager",
