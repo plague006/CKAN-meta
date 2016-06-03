@@ -17,10 +17,7 @@
     "version": "4.17",
     "ksp_version": "1.1",
     "depends": [
-        { "name": "ModuleManager" },
-        { "name": "RCSBuildAid" },
-        { "name": "SixCrewScienceLab" },
-        { "name": "ActionGroupManager" }
+        { "name": "ModuleManager" }
     ],
     "install": [
         {
