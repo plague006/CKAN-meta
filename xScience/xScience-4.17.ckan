@@ -19,7 +19,7 @@
     "depends": [
         { "name": "ModuleManager" },
         { "name": "RCSBuildAid" },
-        { "name": "WasdEditorCameraContinued" }
+        { "name": "ActionGroupManager" }
     ],
     "install": [
         {
