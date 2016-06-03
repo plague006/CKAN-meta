@@ -19,6 +19,7 @@
     "depends": [
         { "name": "ModuleManager" },
         { "name": "RCSBuildAid" },
+        { "name": "SixCrewScienceLab" },
         { "name": "ActionGroupManager" }
     ],
     "install": [
