@@ -15,7 +15,7 @@
         "x_screenshot": "https://spacedock.info/content/zkeyaerospace_1268/x_Science/x_Science-1456167376.3973684.jpg"
     },
     "version": "4.17",
-    "ksp_version": "1.1.2",
+    "ksp_version": "1.1",
     "install": [
         {
             "file": "GameData/[x] Science!",
